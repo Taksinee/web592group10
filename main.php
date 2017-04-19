@@ -1,5 +1,6 @@
 <html>
-    <body> bgcolor="#FF0000" </body>
-            
+    <body> bgcolor="#cc33cc" </body>
+
 <?php
     echo 'Hello world!';
+</html>
