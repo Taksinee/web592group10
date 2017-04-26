@@ -34,20 +34,18 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">Motorcycle</a>
+      <h1><b>Motorcycle</h1></b><br>
+	  
     </div>
 
-	<div class="navigation">
-    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1"><nav>
+	
       <ul class="nav navbar-nav navbar-right">
-        <li class="current"><a href="#intro">Home</a></li>
-		<li><a href="#about">About</a></li>
-		<li><a href="#works">Works</a></li>
-		<li><a href="#contact">Contact</a></li>
+        <li class="current"><a href="main2.php">Home</a></li>
+		<li><a href="history.php">About</a></li>
+		<li><a href="main3.php">Works</a></li>
 		<li><a href="#login">Login</a></li>
       </ul></nav>
-    </div><!-- /.navbar-collapse -->
-	</div>
+   
 
   </div>
 </div>
@@ -57,162 +55,17 @@
 <section id="intro">
 			<ul id="slippry-slider">
 			  <li>
-				<a href="#slide1"><img src="assets/img/slide/1.jpg" alt="Welcome to Motorcycle!"></a>
+				<a href="#slide1"><img src="assets/img/slide/1.jpg" alt="Welcome to Motorcycle!!!"></a>
 			  </li>
 			  <li>
-				<a href="#slide2"><img src="assets/img/slide/2.jpg"  alt="This is an awesome bootstrap template"></a>
+				<a href="#slide2"><img src="assets/img/slide/2.jpg" alt="Welcome to Motorcycle!!!" ></a>
 			  </li>
 			  <li>
-				<a href="#slide3"><img src="assets/img/slide/3.jpg" alt="Check it out, you are going to <span class='red'>♥</span> it :)"></a>
+				<a href="#slide3"><img src="assets/img/slide/3.jpg" alt="Welcome to Motorcycle!!!"></a>
 			  </li>
 			</ul>
 </section>
-<!-- end intro -->
-<!-- Section about -->
-<section id="about" class="section">
-<div class="container">
-	<div class="row">
-		<div class="col-md-8 col-md-offset-2">
-			<div class="heading">
-				<h3><span>About us</span></h3>
-			</div>
-			<div class="sub-heading">
-				<p>
-					 Creating a visual language around the beliefs of the brands we work with.
-				</p>
-			</div>
-		</div>
-	</div>
-	<div class="row">
-		<div class="col-md-3">
-			<div class="team-box">
-			<img src="kwang.jpg" alt="" class="img-responsive" />
-			<div class="roles">
-				<h5><strong>Kanjanaporn Boonrueng</strong></h5>
-				<p>
-					583020378-3
-				</p>
-				<ul class="social-profile">
-					<li><a href="#"><i class="fa fa-facebook fa-lg"></i></a></li>
-					<li><a href="#"><i class="fa fa-twitter fa-lg"></i></a></li>
-					<li><a href="#"><i class="fa fa-dribbble fa-lg"></i></a></li>
-				</ul>
-			</div>
-			</div>
-		</div>
-		<div class="col-md-3">
-			<div class="team-box">
-			<img src="Mild.jpg" alt="" class="img-responsive" />
-			<div class="roles">
-				<h5><strong>Taksinee Janmueng</strong></h5>
-				<p>
-					583020395-3
-				</p>
-				<ul class="social-profile">
-					<li><a href="#"><i class="fa fa-facebook fa-lg"></i></a></li>
-					<li><a href="#"><i class="fa fa-twitter fa-lg"></i></a></li>
-					<li><a href="#"><i class="fa fa-dribbble fa-lg"></i></a></li>
-				</ul>
-			</div>
-			</div>
-		</div>
-		<div class="col-md-3">
-			<div class="team-box">
-			<img src="bow.jpg" alt="" class="img-responsive" />
-			<div class="roles">
-				<h5><strong>Panida Jumpa</strong></h5>
-				<p>
-					583021141-9
-				</p>
-				<ul class="social-profile">
-					<li><a href="#"><i class="fa fa-facebook fa-lg"></i></a></li>
-					<li><a href="#"><i class="fa fa-twitter fa-lg"></i></a></li>
-					<li><a href="#"><i class="fa fa-dribbble fa-lg"></i></a></li>
-				</ul>
-			</div>
-			</div>
-		</div>
-		
-		<div class="col-md-3">
-			<div class="team-box">
-			<img src="meaw.jpg" alt="" class="img-responsive" />
-			<div class="roles">
-				<h5><strong>Kannikar Keodthawee</strong></h5>
-				<p>
-					583020374-1 
-				</p>
-				<ul class="social-profile">
-					<li><a href="#"><i class="fa fa-facebook fa-lg"></i></a></li>
-					<li><a href="#"><i class="fa fa-twitter fa-lg"></i></a></li>
-					<li><a href="#"><i class="fa fa-dribbble fa-lg"></i></a></li>
-				</ul>
-			</div>
-			</div>
-		</div><center>
-			<div class="column">
-			<div class="1-md-row">
-			<div class="team-box">
-			<img src="misteen.jpg" alt="" class="img-responsive" />
-			<div class="roles">
-				<h5><strong>Tanyaluk Chaiseeda</strong></h5>
-				<p>
-					583020400-6 
-				</p>
-				<ul class="social-profile">
-					<li><a href="#"><i class="fa fa-facebook fa-lg"></i></a></li>
-					<li><a href="#"><i class="fa fa-twitter fa-lg"></i></a></li>
-					<li><a href="#"><i class="fa fa-dribbble fa-lg"></i></a></li>
-				</ul>
-			</div>
-			</div>
-		</div>
-		</div></center>
-		</div>
-	</div>
-</div>
-</section>
-<!-- end section about -->
-<!-- section works -->
-<section id="works" class="section gray">
-<div class="container">
-	<div class="row">
-		<div class="col-md-8 col-md-offset-2">
-			<div class="heading">
-				<h3><span>Recent works</span></h3>
-			</div>
-			<div class="sub-heading">
-				<p>
-					 We have a history of doing what our name implies, creating a visual language around the beliefs of the brands we work with.
-				</p>
-			</div>
-		</div>
-	</div>
-	<div class="row">
-		<div class="col-md-12">
-						<ul class="grid effect" id="grid">
-						<li>
-							<a class="fancybox" data-fancybox-group="gallery" title="Portfolio name" href="assets/img/portfolio/1.jpg">
-								<img src="assets/img/portfolio/1.jpg" alt="" />
-							</a>						
-						</li>
-						<li><a href="assets/img/portfolio/2.jpg" class="fancybox" data-fancybox-group="gallery" title="Portfolio name"><img src="assets/img/portfolio/2.jpg" alt="" /></a></li>
-						<li><a href="assets/img/portfolio/3.jpg" class="fancybox" data-fancybox-group="gallery" title="Portfolio name"><img src="assets/img/portfolio/3.jpg" alt="" /></a></li>
-						<li><a href="assets/img/portfolio/4.jpg" class="fancybox" data-fancybox-group="gallery" title="Portfolio name"><img src="assets/img/portfolio/4.jpg" alt="" /></a></li>
-						<li><a href="assets/img/portfolio/5.jpg" class="fancybox" data-fancybox-group="gallery" title="Portfolio name"><img src="assets/img/portfolio/5.jpg" alt="" /></a></li>
-						<li><a href="assets/img/portfolio/6.jpg" class="fancybox" data-fancybox-group="gallery" title="Portfolio name"><img src="assets/img/portfolio/6.jpg" alt="" /></a></li>
-						<li><a href="assets/img/portfolio/7.jpg" class="fancybox" data-fancybox-group="gallery" title="Portfolio name"><img src="assets/img/portfolio/7.jpg" alt="" /></a></li>
-						<li><a href="assets/img/portfolio/8.jpg" class="fancybox" data-fancybox-group="gallery" title="Portfolio name"><img src="assets/img/portfolio/8.jpg" alt="" /></a></li>
-						<li><a href="assets/img/portfolio/9.jpg" class="fancybox" data-fancybox-group="gallery" title="Portfolio name"><img src="assets/img/portfolio/9.jpg" alt="" /></a></li>
-						<li><a href="assets/img/portfolio/10.jpg" class="fancybox" data-fancybox-group="gallery" title="Portfolio name"><img src="assets/img/portfolio/10.jpg" alt="" /></a></li>  
-						<li><a href="assets/img/portfolio/11.jpg" class="fancybox" data-fancybox-group="gallery" title="Portfolio name"><img src="assets/img/portfolio/11.jpg" alt="" /></a></li>
-						<li><a href="assets/img/portfolio/12.jpg" class="fancybox" data-fancybox-group="gallery" title="Portfolio name"><img src="assets/img/portfolio/12.jpg" alt="" /></a></li>
-						<li><a href="assets/img/portfolio/13.jpg" class="fancybox" data-fancybox-group="gallery" title="Portfolio name"><img src="assets/img/portfolio/13.jpg" alt="" /></a></li>
-						<li><a href="assets/img/portfolio/14.jpg" class="fancybox" data-fancybox-group="gallery" title="Portfolio name"><img src="assets/img/portfolio/14.jpg" alt="" /></a></li>   
-						</ul>
-		</div>
-	</div>
-</div>
-</section>
+
 <!-- section works -->
 <!-- section contact -->
 <section id="contact" class="section">
@@ -220,64 +73,16 @@
 	<div class="row">
 		<div class="col-md-8 col-md-offset-2">
 			<div class="heading">
-				<h3><span>Get in touch</span></h3>
+				
 			</div>
 			<div class="sub-heading">
-				<p>
-					 Lorem ipsum dolor sit amet, mutat paulo simul per no, assum fastidii vituperata eam no.
-				</p>
+				
 			</div>
 		</div>
 	</div>
 </div>
 
-<div class="container">
-	<div class="row">
-		<div class="col-md-6">
-			<h4><i class="icon-envelope"></i><strong>Contact form</strong></h4>
-			<p>
-				Want to work with us or just want to say hello? Don't hesitate to get in touch!
-			</p>
-			<!-- start contact form -->
-            <div class="cform" id="contact-form">
-						
-                        
-                <div id="sendmessage">Your message has been sent. Thank you!</div>
-                <div id="errormessage"></div>
-                <form action="" method="post" role="form" class="contactForm">
-                    <div class="form-group">
-                        <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
-                        <div class="validation"></div>
-                    </div>
-                    <div class="form-group">
-                        <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
-                        <div class="validation"></div>
-                    </div>
-                    <div class="form-group">
-                        <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
-                        <div class="validation"></div>
-                    </div>
-                    <div class="form-group">
-                        <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
-                        <div class="validation"></div>
-                    </div>
-                    
-                    <div class="text-center"><button type="submit" class="btn btn-lg btn-theme">Send Message</button></div>
-                </form>
-    		</div>
-            <!-- END contact form -->
-        </div>
-		<div class="col-md-6">
-						<h4>Find our location</h4>
-						<p>View from google map</p>
-						<!-- map -->
-						<div id="section-map" class="clearfix">
-							<div id="google-map" data-latitude="40.713732" data-longitude="-74.0092704"></div>
-						</div>	
-		</div>
-	</div>
-</div>
-</section>
+
 <!-- end section contact -->
 <footer>
 <div class="verybottom">
@@ -286,7 +91,6 @@
 			<div class="col-md-12">
 				<div class="aligncenter">
                 <ul class="social-network social-circle">
-                    <li><a href="#" class="icoRss" title="Rss"><i class="fa fa-rss"></i></a></li>
                     <li><a href="#" class="icoFacebook" title="Facebook"><i class="fa fa-facebook"></i></a></li>
                     <li><a href="#" class="icoTwitter" title="Twitter"><i class="fa fa-twitter"></i></a></li>
                     <li><a href="#" class="icoGoogle" title="Google +"><i class="fa fa-google-plus"></i></a></li>
@@ -299,7 +103,7 @@
 			<div class="col-md-12">
 				<div class="aligncenter">
 					<p>
-						 &copy; Groovin Theme - All right reserved
+						 Department of Computer Science
 					</p>
                     <div class="credits">
                         <!-- 
@@ -308,7 +112,8 @@
                             Licensing information: https://bootstrapmade.com/license/
                             Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Groovin
                         -->
-                        <a href="https://bootstrapmade.com/">Free Bootstrap Themes</a> by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+                      
+					  <a href='http://www.sc.kku.ac.th'>Faculty of Science</a> ,  <a href='http://www.kku.ac.th'>KhonKaen University</a>
                     </div>
 				</div>
 			</div>
